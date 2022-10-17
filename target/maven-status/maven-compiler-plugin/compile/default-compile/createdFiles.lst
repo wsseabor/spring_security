@@ -1,0 +1,5 @@
+com/example/security/UserRepository.class
+com/example/security/AppController.class
+com/example/security/UserService.class
+com/example/security/SecurityApplication.class
+com/example/security/User.class
